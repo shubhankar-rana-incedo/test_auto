@@ -1,0 +1,22 @@
+{
+  "name": "amzn-auto",
+  "version": "1.0.0",
+  "main": "automateAmazon.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "dependencies": {
+    "@cucumber/cucumber": "^9.1.2",
+    "cucumber": "^6.0.7",
+    "playwright": "^1.35.1",
+    "testng": "0.0.1"
+  },
+  "directories": {
+    "test": "tests"
+  },
+  "description": ""
+}
